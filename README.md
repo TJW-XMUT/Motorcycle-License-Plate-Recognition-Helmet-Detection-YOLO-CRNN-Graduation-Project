@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ```
 
 # 三、摩托车/电动车相关目标检测(yolo)和二轮车车牌字符识别(CRNN)
-## 1、yolov9算法（以yolov9为例进行展示，可提供多种yolo版本）
+## 1、yolov9算法（仅以yolov9为例进行展示，可提供多种yolo版本）
 YOLOv9是YOLO (You Only Look Once)系列实时目标检测系统的最新版本。它建立在以前的版本之上，融合了深度学习技术和架构设计的进步，以在对象检测任务中实现卓越的性能。YOLOv9将可编程梯度信息(PGI)概念与通用ELAN(GELAN)架构相结合而开发，代表了准确性、速度和效率方面的重大飞跃。
 
 YOLOv9主要特点：
